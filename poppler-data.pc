@@ -1,8 +1,8 @@
-poppler_datadir=/usr/local/share/poppler
+poppler_datadir=/usr/share/poppler
 
 Name: poppler-data
 Description: Encoding files for use with poppler
 Version: 0.4.7
 
-Cflags: -DPOPPLER_DATADIR=/usr/local/share/poppler
+Cflags: -DPOPPLER_DATADIR=/usr/share/poppler
 
